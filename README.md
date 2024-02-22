@@ -1,5 +1,5 @@
 
-![alt text](https://i.imgur.com/ZXYEJce.png)
+![](https://i.imgur.com/IddrFh3.png)
 # AdblockProof - Wordpress plugin
 Simple adblock blocker for wordpress websites with customized modal. Plugin is totally free in full version.
 ## Features
